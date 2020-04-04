@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>img446.jpg</filename>
+	<path>/home/ihamed/Downloads/frames/img446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licenseplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>209</ymin>
+			<xmax>361</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>
