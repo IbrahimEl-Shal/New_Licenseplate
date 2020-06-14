@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New</folder>
+	<filename>image326.jpg</filename>
+	<path>/home/ihamed/Downloads/New/image326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licenseplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>239</ymin>
+			<xmax>382</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
