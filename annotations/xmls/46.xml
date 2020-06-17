@@ -1,7 +1,7 @@
 <annotation>
 	<folder>New</folder>
-	<filename>ADAWXA.jpg</filename>
-	<path>/home/ihamed/Downloads/New/ADAWXA.jpg</path>
+	<filename>46.jpg</filename>
+	<path>/home/ihamed/Downloads/New/46.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>189</ymin>
-			<xmax>55</xmax>
-			<ymax>194</ymax>
+			<xmin>90</xmin>
+			<ymin>202</ymin>
+			<xmax>132</xmax>
+			<ymax>217</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>254</xmin>
+			<xmin>252</xmin>
 			<ymin>184</ymin>
-			<xmax>277</xmax>
-			<ymax>196</ymax>
+			<xmax>279</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>497</xmin>
+			<xmin>500</xmin>
 			<ymin>192</ymin>
-			<xmax>527</xmax>
+			<xmax>524</xmax>
 			<ymax>207</ymax>
 		</bndbox>
 	</object>
